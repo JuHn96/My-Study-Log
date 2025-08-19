@@ -1,10 +1,11 @@
 # 📚 My Study Portfolio  
 
-> ⚠️ **안내:** 현재 Notion에서 작업하던 것을 그대로 가져와서 불완전합니다.  
-> 아직 방법을 찾는 중이에요.. 😭  
->   
-> ⚠️ **Note:** The content has been imported directly from Notion, so it may be incomplete.  
-> I am still figuring out the best way to organize it.. 😭  
+<div style="border: 2px solid #ff4d4f; background-color: #fff0f0; padding: 10px; border-radius: 8px;">
+  ⚠️ <strong>안내:</strong> 현재 Notion에서 작업하던 것을 그대로 가져와서 불완전합니다.<br>
+  아직 방법을 찾는 중이에요.. 😭<br><br>
+  ⚠️ <strong>Note:</strong> The content has been imported directly from Notion, so it may be incomplete.<br>
+  I am still figuring out the best way to organize it.. 😭
+</div>
 
 저의 공부기록과 참고자료 공간입니다!  
 여기까지 와주신 분들 환영합니다! 😄  
