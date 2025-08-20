@@ -28,7 +28,7 @@
 
 ---
 
-## 🇬🇧 English Introduction
+## 🇺🇸 English Introduction
 **Hello!**  
 Welcome to my study log and reference space. 😄  
 Thank you for stopping by!  
